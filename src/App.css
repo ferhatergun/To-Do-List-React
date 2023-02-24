@@ -1,0 +1,100 @@
+.kutu
+{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.görev-listesi
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.yazi
+{
+    width: 200px;
+    height: 100%;
+    font-size: 18px;
+    border: 2px solid #ccc;
+}
+.gönder
+{
+    margin-left: 15px;
+    height: 110%;
+    border-radius: 10px;
+    border:2px solid pink;
+    cursor: pointer;
+}
+.görev-ekle-div
+{
+    text-align: center;
+    width: 350px;
+    height:38px;
+
+
+}
+.görevler
+{
+    margin-top: 30px;
+}
+.todo
+{
+    width: 300px;
+    height: 60px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row; 
+    align-items:center;
+    margin-bottom:10px;
+  
+}
+.todo-ortada-kalan
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.rastgele
+{
+    margin-left: 15px;
+    height: 35px;
+    border-radius: 10px;
+    border:2px solid pink;
+    cursor: pointer;
+}
+.completed
+{
+    opacity:0.50;
+   
+}
+.tik
+{
+    width: 30px;
+    height: 15px;
+}
+.editdiv
+{
+    background-color: aliceblue;
+    width: 300px;
+    margin-bottom: 10px;
+    height:30px;
+
+}
+.kaydet
+{
+    float: right;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid pink;
+    cursor: pointer;
+}
+.input
+{
+    height: 26px;
+    width: 140px;
+}
+.sil
+{
+    margin-left: 5px;
+}
+
